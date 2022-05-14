@@ -1,0 +1,56 @@
+.profilePic {
+  width: 2em;
+  height: 2em;
+  border-radius: 50%;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+.profileName {
+  font-size: 1em;
+  color: #f6592c;
+  margin-right: 1em;
+}
+.blogAuthor {
+  display: flex;
+  align-items: center;
+}
+.blogHead {
+  display: flex;
+  align-items: center;
+  border-bottom: solid #eeeeee;
+  border-width: 2px;
+}
+.dateTime {
+  color: rgb(143, 143, 143);
+  font-weight: 400;
+}
+.blogContent {
+  display: flex;
+  box-shadow: 0px 3px 3px 0px rgb(153 153 153);
+}
+.blogData {
+  border: solid #eeeeee;
+  border-width: 2px;
+  margin-bottom: 2em;
+}
+.blogData:nth-child(even) {
+  background-color: #ccecff;
+}
+.blogData:nth-child(odd) {
+  background-color: #ffffff;
+}
+.blogWordTitle {
+  font-size: 1.25em;
+  font-weight: 700;
+}
+.blogWord {
+  margin-right: 1.25em;
+}
+.blogPic {
+  width: 12em;
+  height: auto;
+  margin: 1em 1em 2em 1em;
+}
+.blogTable {
+  margin: 0em 8em 0em 4em;
+}

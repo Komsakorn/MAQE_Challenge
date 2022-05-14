@@ -1,0 +1,19 @@
+body {
+  margin: 0em;
+}
+* {
+  font-family: "Open Sans", sans-serif;
+}
+.introduction {
+  margin-bottom: 1em;
+}
+.header {
+  font-size: 2em;
+  font-weight: 700;
+  margin: 2em 2em 0em 2em;
+}
+.subHeader {
+  font-size: 1em;
+  font-weight: 400;
+  margin: 4em 4em 0em 4em;
+}
